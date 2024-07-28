@@ -9,6 +9,9 @@ HTML, CSS, JS, Swiper Slider, TailwindCSS.
 
 პროექტის გასახსნელად გახსენით ფაილი index.html
 
+მაილი: tazogociridze9@gmail.com
+ნომერი: 597-05-03-64
+
 მადლობა ყურადღებისთვის!
 
 თამაზ გოცირიძე
